@@ -1,0 +1,16 @@
+{
+  "name": "beatrices_inferno",
+  "version": "0.0.0",
+  "description": "Simple game with phaser.js",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "platformer",
+    "phaser"
+  ],
+  "author": "Jaimerson Araújo",
+  "license": "LGPL-3.0"
+}

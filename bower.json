@@ -1,0 +1,30 @@
+{
+  "name": "beatrices_inferno",
+  "version": "0.0.0",
+  "authors": [
+    "James <jaimersonaraujo@gmail.com>"
+  ],
+  "description": "A game using phaser.js",
+  "main": "game.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "game",
+    "dante",
+    "inferno",
+    "platformer",
+    "phaser"
+  ],
+  "license": "LGPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.3.0"
+  }
+}
